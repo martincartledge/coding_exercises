@@ -3,4 +3,4 @@
 Compilation of JavaScript exercises
 
 - [x] Factorial Function
-- [x] Let and Const
+- [x] Let and Const / if-else / switch statements / loops
