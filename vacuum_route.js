@@ -60,24 +60,24 @@ const vac = (str) => {
     U: 0,
     D: 0,
   };
-  for (let i = 0; i < arr.length; i++) {
+  for (move of arr) {
     // checking L
-    if (arr[i] === "L") {
+    if (move === "L") {
       moves.L++;
     }
 
     // checking R
-    if (arr[i] === "R") {
+    if (move === "R") {
       moves.R++;
     }
 
     // checking U
-    if (arr[i] === "U") {
+    if (move === "U") {
       moves.U++;
     }
 
     // checking D
-    if (arr[i] === "D") {
+    if (move === "D") {
       moves.D++;
     }
   }
