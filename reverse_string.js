@@ -1,3 +1,5 @@
+// Given a string, reverse all of its characters and return the resulting string.
+
 // es5 manual approach
 function rev(str) {
   const arr = str.split("");
