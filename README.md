@@ -8,3 +8,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Correct Capitalization (es5, es6)
 - [x] Valid Palindrome with Removal (es5, es6)
 - [x] Two Sum (es5, es6)
+- [x] Jewels and Stones (es5)
