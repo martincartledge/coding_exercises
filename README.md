@@ -9,3 +9,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Valid Palindrome with Removal (es5, es6)
 - [x] Two Sum (es5, es6)
 - [x] Jewels and Stones (es5)
+- [x] Anagram (es5, es6)
