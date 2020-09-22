@@ -11,3 +11,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Jewels and Stones (es5)
 - [x] Anagram (es5, es6)
 - [x] Find nth value in Fibonacci sequence (non-recursive and recursive)
+- [x] Find intersection (es5, es6)
