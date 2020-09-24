@@ -13,5 +13,5 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Find nth value in Fibonacci sequence (non-recursive and recursive)
 - [x] Find intersection (es5, es6)
 - [x] Uncommon Words (es5, es6)
-- [] Merge linked lists
+- [ ] Merge linked lists
 - [x] Add binary
