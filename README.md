@@ -1,17 +1,23 @@
-# Daily Byte Exercises
+# Coding Exercises
 
-Collection of coding challenges completed from [The Daily Byte](https://thedailybyte.dev/)
+Collection of coding challenges completed from [The Daily Byte](https://thedailybyte.dev/), [HackerRank](https://www.hackerrank.com/), and [LeetCode](https://leetcode.com/)
 
-- [x] Reverse String (es5 manual, es6 manual, es6 helper methods)
-- [x] Find Palindrome (es5, es6)
-- [x] Vacuum Route (es5, es6)
-- [x] Correct Capitalization (es5, es6)
-- [x] Valid Palindrome with Removal (es5, es6)
-- [x] Two Sum (es5, es6)
-- [x] Jewels and Stones (es5)
-- [x] Anagram (es5, es6)
-- [x] Find nth value in Fibonacci sequence (non-recursive and recursive)
-- [x] Find intersection (es5, es6)
-- [x] Uncommon Words (es5, es6)
-- [ ] Merge linked lists
-- [x] Add binary
+- [x] Reverse String (Daily byte)
+- [x] Find Palindrome (Daily Byte)
+- [x] Vacuum Route (Daily Byte)
+- [x] Correct Capitalization (Daily Byte)
+- [x] Valid Palindrome with Removal (Daily Byte)
+- [x] Two Sum (Daily Byte)
+- [x] Jewels and Stones (Daily Byte)
+- [x] Anagram (Daily Byte)
+- [x] Find nth value in Fibonacci sequence (Daily Byte)
+- [x] Find intersection (Daily Byte)
+- [x] Uncommon Words (Daily Byte)
+- [x] Add binary (Daily Byte)
+- [x] Class vs Instance (HackerRank)
+- [x] Conditional Statement (HackerRank)
+- [x] Data Types (HackerRank)
+- [x] Loops (HackerRank)
+- [x] Operators (HackerRank)
+- [x] Richest Customer Wealth (LeetCode)
+- [x] Unique Email Addresses (LeetCode)
