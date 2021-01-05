@@ -21,3 +21,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Operators (HackerRank)
 - [x] Richest Customer Wealth (LeetCode)
 - [x] Unique Email Addresses (LeetCode)
+- [x] License Key Formatting (LeetCode)
