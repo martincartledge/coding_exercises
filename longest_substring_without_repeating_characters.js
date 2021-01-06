@@ -14,7 +14,7 @@ var lengthOfLongestSubstring = function (s) {
   let current = 0;
   // loop through 's'
   for (let i = 0; i < s.length; i++) {
-    // check if lookup already has the value
+    // check if lookup map already has the value
     if (lookup.has(s[i])) {
       // if lookup already has this letter
       // we want to "move" current to the next index position
