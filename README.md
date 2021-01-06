@@ -22,3 +22,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Richest Customer Wealth (LeetCode)
 - [x] Unique Email Addresses (LeetCode)
 - [x] License Key Formatting (LeetCode)
+- [x] Longest Substring Without Repeating Characters (LeetCode)
