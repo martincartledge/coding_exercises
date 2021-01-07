@@ -25,3 +25,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Longest Substring Without Repeating Characters (LeetCode)
 - [x] Running Sum of 1d Array (LeetCode)
 - [x] Defanging an IP Address (LeetCode)
+- [x] How Many Numbers Are Smaller Than the Current Number (LeetCode)
