@@ -28,3 +28,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] How Many Numbers Are Smaller Than the Current Number (LeetCode)
 - [x] Two Sum Refactored (LeetCode)
 - [x] Number of Steps to Reduce a Number to Zero (LeetCode)
+- [x] Print Immutable Linked List in Reverse (LeetCode)
