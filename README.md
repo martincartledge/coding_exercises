@@ -32,3 +32,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Backspace String Compare (LeetCode)
 - [x] Number of Good Pairs (LeetCode)
 - [x] Reverse String in Place (LeetCode)
+- [x] Pascal's Triangle (LeetCode)
