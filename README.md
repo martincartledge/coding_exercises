@@ -34,3 +34,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Reverse String in Place (LeetCode)
 - [x] Pascal's Triangle (LeetCode)
 - [x] Sliding Window Maximum (LeetCode)
+- [x] Single Number (LeetCode)
