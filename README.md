@@ -35,3 +35,4 @@ Collection of coding challenges completed from [The Daily Byte](https://thedaily
 - [x] Pascal's Triangle (LeetCode)
 - [x] Sliding Window Maximum (LeetCode)
 - [x] Single Number (LeetCode)
+- [x] Best Time to Buy and Sell Stock (LeetCode)
